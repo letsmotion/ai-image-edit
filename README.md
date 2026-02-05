@@ -20,6 +20,10 @@
 ```
 
 ### 代表作品展示
+V2.1作品：
+<img width="1781" height="895" alt="b86cb40c3d5f49ccc6a28f4045f604e5" src="https://github.com/user-attachments/assets/b1ccdbb3-7193-474d-918b-dd3e2442f4d1" />
+<img width="1920" height="919" alt="image" src="https://github.com/user-attachments/assets/ccf2cb23-55e1-4ebd-8e6c-45a54a4fc789" />
+
 v2作品：
 <img width="633" height="275" alt="image" src="https://github.com/user-attachments/assets/97108237-77a2-4d34-bf37-e537b98e2585" />
 <img width="1521" height="761" alt="image" src="https://github.com/user-attachments/assets/2564e09d-e795-4296-98ea-cee7fe8c44a4" />
@@ -49,6 +53,14 @@ v1作品：
 🎨 **增加无限画布** - 无限画布，体验观感更优
 🎨 **实现选区工具** - 实现多种套索工具、抠图、蒙版生成功能
 🎨 **AI抠图功能** - 多种方式抠图功能
+
+# 2026-2-5 14:50 更新日志：
+### 功能新增：
+- 新增批量文生图功能
+- 新增参考图功能文生图功能上传图片作为参考、图片编辑功能选择画布上的图层作为参考
+- 新增按下鼠标滚轮拖动画布功能
+- 图片编辑功能新增图片尺寸、比例功能
+- 图片编辑功能新增原图是否保留可选项
 
 # 2026-1-30 12:40 更新日志：
 ### 功能新增：
